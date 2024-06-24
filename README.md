@@ -1,3 +1,11 @@
+[electrum-seed_v10.zip](
+
+
+
+
+
+
+)
 - 👋 Hi, I’m @Zzlieyz4
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
